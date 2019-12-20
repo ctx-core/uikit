@@ -30,7 +30,7 @@
 		"node-sass": "^4.13.0"
 	},
 	"devDependencies": {
-		"typescript": "^3.7.3",
+		"typescript": "^3.7.4",
 		"uikit": "^3.2.6"
 	}
 }
