@@ -27,10 +27,10 @@
 	},
 	"gitHead": "ecded533c5d9946e2d9dafa39dbc95ce3e38ad93",
 	"dependencies": {
-		"node-sass": "^4.13.0"
+		"node-sass": "^4.13.1"
 	},
 	"devDependencies": {
-		"typescript": "^3.7.4",
+		"typescript": "^3.7.5",
 		"uikit": "^3.2.7"
 	}
 }
