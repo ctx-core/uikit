@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "0.1.21",
+	"version": "0.1.22",
 	"description": "ctx-core uikit",
 	"main": "lib.js",
 	"module": "lib.js",
