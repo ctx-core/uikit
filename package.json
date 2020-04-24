@@ -27,7 +27,7 @@
 	},
 	"gitHead": "811374d23f28b1fa9b6c32f7e381924812e396c1",
 	"dependencies": {
-		"node-sass": "^4.13.1"
+		"node-sass": "^4.14.0"
 	},
 	"devDependencies": {
 		"typescript": "^3.8.3",
