@@ -31,6 +31,6 @@
 	},
 	"devDependencies": {
 		"typescript": "^3.9.5",
-		"uikit": "^3.5.3"
+		"uikit": "^3.5.4"
 	}
 }
