@@ -2,9 +2,9 @@
 	"name": "@ctx-core/uikit",
 	"version": "0.1.38",
 	"description": "ctx-core uikit",
-	"main": "lib.js",
-	"module": "lib.js",
-	"types": "lib.ts",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
