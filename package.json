@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "0.1.41",
+	"version": "0.1.42",
 	"description": "ctx-core uikit",
 	"main": "./index.js",
 	"module": "./index.js",
