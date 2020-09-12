@@ -25,7 +25,7 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"gitHead": "4829331401ea3e7c85d127d1ca7663b9fb3ece57",
+	"gitHead": "b3db9a3698fe488a685a66dea406737989eb56f9",
 	"dependencies": {
 		"node-sass": "^4.14.1"
 	},
