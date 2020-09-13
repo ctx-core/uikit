@@ -2,35 +2,35 @@
 	"name": "@ctx-core/uikit",
 	"version": "0.1.52",
 	"description": "ctx-core uikit",
+	"keywords": [
+		"ctx-core",
+		"google"
+	],
+	"homepage": "https://github.com/ctx-core/uikit#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/uikit/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/uikit/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
 	"scripts": {
 		"exec": "$@"
 	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/uikit/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"google"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/uikit/issues"
-	},
-	"homepage": "https://github.com/ctx-core/uikit#readme",
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "12d53b273e7f893e84df7d516e83166ddb444763",
 	"dependencies": {
 		"node-sass": "^4.14.1"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2",
 		"uikit": "^3.5.7"
-	}
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"gitHead": "12d53b273e7f893e84df7d516e83166ddb444763"
 }
