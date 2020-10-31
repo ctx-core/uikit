@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 1.0.5
+
+### Patch Changes
+
+- node-sass: ^4.14.1 -> ^5.0.0
+
 ## 1.0.4
 
 ### Patch Changes
