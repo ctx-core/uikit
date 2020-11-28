@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 1.0.7
+
+### Patch Changes
+
+- uikit: ^3.5.9 -> ^3.5.10
+
 ## 1.0.6
 
 ### Patch Changes
