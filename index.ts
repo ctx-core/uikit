@@ -1,1 +1,1 @@
-export * from './lib'
+export * from './register_component'

@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 1.1.0
+
+### Minor Changes
+
+- register_component as register\_\_component
+
 ## 1.0.16
 
 ### Patch Changes
