@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "2.0.5",
+	"version": "2.0.6",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 	},
 	"devDependencies": {
 		"typescript": "^4.2.2",
-		"uikit": "^3.6.16"
+		"uikit": "^3.6.17"
 	},
 	"publishConfig": {
 		"access": "public"
