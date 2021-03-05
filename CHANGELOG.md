@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 2.0.7
+
+### Patch Changes
+
+- typescript: ^4.2.2 -> ^4.2.3
+
 ## 2.0.6
 
 ### Patch Changes
