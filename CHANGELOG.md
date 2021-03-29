@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 2.0.10
+
+### Patch Changes
+
+- version bump
+
 ## 2.0.9
 
 ### Patch Changes
