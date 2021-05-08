@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "2.0.15",
+	"version": "2.0.17",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -22,9 +22,6 @@
 	"scripts": {
 		"build": "npm run compile",
 		"exec": "$@"
-	},
-	"dependencies": {
-		"node-sass": "^5.0.0"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4",
