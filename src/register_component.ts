@@ -1,9 +1,15 @@
+// @ts-ignore
+import UIkit from 'uikit/src/js/api/index'
+// @ts-ignore
 import boot from 'uikit/src/js/api/boot'
-import UIkit from 'uikit/src/js/uikit-core'
-let boot_called
-export function register_component(name, component, opts:uikit_register_component_opts_type = {}) {
+let boot_called = false
+export function register_component(
+	name:string,
+	component:object,
+	params:uikit_register_component_params_type = {}
+) {
 	boot_uikit()
-  if (!UIkit[name] || opts.force) {
+  if (!UIkit[name] || params.force) {
   	UIkit.component(name, component)
 	}
 }
@@ -15,6 +21,6 @@ export function boot_uikit() {
 export {
 	register_component as register__component
 }
-export interface uikit_register_component_opts_type {
+export interface uikit_register_component_params_type {
 	force?:boolean
 }

@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 2.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 2.0.17
 
 ### Patch Changes
