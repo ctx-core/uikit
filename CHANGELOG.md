@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 2.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+
 ## 2.1.1
 
 ### Patch Changes
