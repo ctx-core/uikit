@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "2.1.4",
+	"version": "2.2.0",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -16,9 +16,9 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"main": "./src/index.js",
-	"module": "./src/index.js",
-	"types": "./src/index.d.ts",
+	"main": "./dist/index.js",
+	"module": "./dist/index.js",
+	"types": "./types/index.d.ts",
 	"scripts": {
 		"build": "npm run compile",
 		"exec": "$@"
