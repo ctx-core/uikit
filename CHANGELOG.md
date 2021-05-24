@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 2.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+
 ## 2.2.0
 
 ### Minor Changes
