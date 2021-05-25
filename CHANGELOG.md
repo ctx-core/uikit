@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 2.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 2.2.1
 
 ### Patch Changes
