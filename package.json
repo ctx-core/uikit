@@ -27,7 +27,7 @@
 		"exec": "$@"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^7.0.9",
+		"@ctx-core/ctx-core-package-tools": "workspace:^7.0.10",
 		"@types/uikit": "^3.3.1",
 		"typescript": "^4.3.2",
 		"uikit": "^3.6.22"
