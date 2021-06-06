@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "2.3.2",
+	"version": "2.3.3",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -21,13 +21,13 @@
 	"types": "./dist/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile && npm run symlink",
-		"clean": "rm -f tsconfig.tsbuildinfo",
+		"clean": "rm -f tsconfig.tsbuildinfo && rm -f dist/**/*.js && rm -f dist/**/*.d.ts && rm -f dist/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"symlink": "./node_modules/.bin/symlink_src_assets_to_dist .",
 		"exec": "$@"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^7.0.12",
+		"@ctx-core/ctx-core-package-tools": "workspace:^7.0.13",
 		"@types/uikit": "^3.3.1",
 		"typescript": "^4.3.2",
 		"uikit": "^3.6.22"
