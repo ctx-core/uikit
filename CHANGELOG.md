@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 2.3.4
+
+### Patch Changes
+
+- version bump: run build
+
 ## 2.3.3
 
 ### Patch Changes
