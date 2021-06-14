@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 3.0.1
+
+### Patch Changes
+
+- remove npm run symlink
+
 ## 3.0.0
 
 ### Major Changes
