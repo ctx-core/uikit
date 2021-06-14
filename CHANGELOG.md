@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 3.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 2.3.6
 
 ### Patch Changes
