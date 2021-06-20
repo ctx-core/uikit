@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 3.0.6
+
+### Patch Changes
+
+- fix: npm run clean
+
 ## 3.0.5
 
 ### Patch Changes
