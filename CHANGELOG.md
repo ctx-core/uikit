@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 3.0.7
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 3.0.6
 
 ### Patch Changes
