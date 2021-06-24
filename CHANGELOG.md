@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 3.0.8
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 3.0.7
 
 ### Patch Changes
