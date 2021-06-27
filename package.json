@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "3.0.9",
+	"version": "3.0.10",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -16,9 +16,9 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"main": "./src/index.js",
-	"module": "./src/index.js",
-	"types": "./src/index.d.ts",
+	"main": "./dist/index.js",
+	"module": "./dist/index.js",
+	"types": "./dist/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
@@ -26,7 +26,7 @@
 		"exec": "$@"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.11",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.12",
 		"@types/uikit": "^3.3.1",
 		"typescript": "^4.3.4",
 		"uikit": "^3.6.22"

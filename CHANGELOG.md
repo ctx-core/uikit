@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 3.0.10
+
+### Patch Changes
+
+- dist directory
+
 ## 3.0.9
 
 ### Patch Changes
