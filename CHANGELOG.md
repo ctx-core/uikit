@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 3.0.21
 
 ### Patch Changes
