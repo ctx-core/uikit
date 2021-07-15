@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+
 ## 4.0.1
 
 ### Patch Changes
