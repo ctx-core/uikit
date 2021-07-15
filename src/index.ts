@@ -1,1 +1,1 @@
-export * from './register_component'
+export * from './register_component.js'
