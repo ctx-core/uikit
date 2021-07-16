@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+
 ## 4.0.4
 
 ### Patch Changes
