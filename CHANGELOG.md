@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.6
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+
 ## 4.0.5
 
 ### Patch Changes
