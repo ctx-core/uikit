@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 4.0.3
 
 ### Patch Changes
