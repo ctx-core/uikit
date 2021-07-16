@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 4.0.6
 
 ### Patch Changes

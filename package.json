@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "4.0.6",
+	"version": "4.0.7",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"main": "./dist/index.js",
+	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"exports": {
@@ -32,7 +32,7 @@
 		"exec": "$@"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.30",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.31",
 		"@types/uikit": "^3.3.2",
 		"typescript": "^4.3.5",
 		"uikit": "^3.7.1"
