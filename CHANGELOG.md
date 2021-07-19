@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.13
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+
 ## 4.0.12
 
 ### Patch Changes
