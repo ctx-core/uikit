@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "4.0.31",
+	"version": "4.0.32",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -35,9 +35,9 @@
 		"exec": "$@"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.56",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.57",
 		"@types/uikit": "^3.3.2",
-		"typescript": "^4.3.5",
+		"typescript": "^4.4.2",
 		"uikit": "^3.7.2"
 	},
 	"publishConfig": {
