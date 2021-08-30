@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.35
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.0.34
 
 ### Patch Changes
