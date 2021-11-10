@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.54
+
+### Patch Changes
+
+- compile using swc
+
 ## 4.0.53
 
 ### Patch Changes
