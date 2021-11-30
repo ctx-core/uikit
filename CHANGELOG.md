@@ -1,5 +1,19 @@
 # @ctx-core/uikit
 
+## 4.0.58
+
+### Patch Changes
+
+- uikit: ^3.9.3 -> ^3.9.4
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+
+## 4.0.57
+
+### Patch Changes
+
+- @swc/core: ^1.2.110 -> ^1.2.111
+
 ## 4.0.56
 
 ### Patch Changes
