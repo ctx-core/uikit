@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.63
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 4.0.62
 
 ### Patch Changes
