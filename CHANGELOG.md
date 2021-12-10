@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.65
+
+### Patch Changes
+
+- package.json: - module
+
 ## 4.0.64
 
 ### Patch Changes
