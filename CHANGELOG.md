@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.68
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 4.0.67
 
 ### Patch Changes
