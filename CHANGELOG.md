@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.69
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 4.0.68
 
 ### Patch Changes
