@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.66
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 4.0.65
 
 ### Patch Changes
