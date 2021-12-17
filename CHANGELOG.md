@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.71
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 4.0.70
 
 ### Patch Changes
