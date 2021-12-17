@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.73
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+
 ## 4.0.72
 
 ### Patch Changes
