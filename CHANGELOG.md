@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.72
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 4.0.71
 
 ### Patch Changes
