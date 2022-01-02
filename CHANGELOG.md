@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.74
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 4.0.73
 
 ### Patch Changes
