@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.76
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+
 ## 4.0.75
 
 ### Patch Changes
