@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.0.77
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 4.0.76
 
 ### Patch Changes
