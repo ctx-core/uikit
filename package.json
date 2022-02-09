@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "4.0.78",
+	"version": "4.0.79",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -35,11 +35,11 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.137",
+		"@swc/core": "^1.2.138",
 		"@types/uikit": "^3.3.2",
 		"rimraf": "^3.0.2",
 		"typescript": "next",
-		"uikit": "^3.10.1"
+		"uikit": "^3.11.1"
 	},
 	"publishConfig": {
 		"access": "public",
