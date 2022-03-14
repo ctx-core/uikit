@@ -35,11 +35,11 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.154",
+		"@swc/core": "^1.2.155",
 		"@types/uikit": "^3.3.2",
 		"rimraf": "^3.0.2",
 		"typescript": "next",
-		"uikit": "^3.11.1"
+		"uikit": "^3.12.2"
 	},
 	"publishConfig": {
 		"access": "public",
