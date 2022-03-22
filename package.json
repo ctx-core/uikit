@@ -34,7 +34,7 @@
 		"exec": "$@"
 	},
 	"devDependencies": {
-		"@swc/cli": "^0.1.55",
+		"@swc/cli": "^0.1.56",
 		"@swc/core": "^1.2.159",
 		"@types/uikit": "^3.3.2",
 		"rimraf": "^3.0.2",
