@@ -39,7 +39,7 @@
 		"@types/uikit": "^3.3.2",
 		"rimraf": "^3.0.2",
 		"typescript": "next",
-		"uikit": "^3.13.1"
+		"uikit": "^3.13.4"
 	},
 	"publishConfig": {
 		"access": "public",
