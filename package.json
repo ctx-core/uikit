@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "4.0.82",
+	"version": "4.0.83",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -37,7 +37,7 @@
 		"@types/uikit": "^3.3.4",
 		"rimraf": "^3.0.2",
 		"typescript": "next",
-		"uikit": "^3.14.1"
+		"uikit": "^3.14.3"
 	},
 	"publishConfig": {
 		"access": "public",
