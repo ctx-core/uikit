@@ -34,7 +34,7 @@
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
 		"@swc/core": "^1.2.196",
-		"@types/uikit": "^3.3.4",
+		"@types/uikit": "^3.3.5",
 		"rimraf": "^3.0.2",
 		"typescript": "next",
 		"uikit": "^3.14.3"
