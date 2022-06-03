@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "4.0.83",
+	"version": "4.0.84",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -34,7 +34,7 @@
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
 		"@swc/core": "^1.2.196",
-		"@types/uikit": "^3.3.5",
+		"@types/uikit": "^3.14.0",
 		"rimraf": "^3.0.2",
 		"typescript": "next",
 		"uikit": "^3.14.3"
