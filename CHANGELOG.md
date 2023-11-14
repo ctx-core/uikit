@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 4.2.2
 
 ### Patch Changes
