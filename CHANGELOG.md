@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 4.2.1
 
 ### Patch Changes
