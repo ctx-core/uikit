@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.2.11
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+
 ## 4.2.10
 
 ### Patch Changes

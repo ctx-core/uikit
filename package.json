@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "4.2.10",
+	"version": "4.2.11",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -43,7 +43,7 @@
 		"@types/uikit": "^3.14.5",
 		"c8": "^9.1.0",
 		"check-dts": "^0.7.2",
-		"tsx": "^4.7.0",
+		"tsx": "^4.7.1",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
