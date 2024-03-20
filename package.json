@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uikit",
-	"version": "4.2.11",
+	"version": "4.2.12",
 	"description": "ctx-core uikit",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/uikit.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-uikit@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
