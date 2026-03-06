@@ -1,5 +1,11 @@
 # @ctx-core/uikit
 
+## 4.2.14
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 4.2.13
 
 ### Patch Changes
